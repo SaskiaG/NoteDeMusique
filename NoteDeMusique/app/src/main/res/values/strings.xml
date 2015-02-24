@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoteDeMusique</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="welcom">Welcom in our converter app! You can pick up a note in the listView, and select it to convert in french notation</string>
+    <string name="website">Come visit our website for more tools ! </string>
+    <string name="convert">convert</string>
+
+    <string-array name="note">
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string name="title_activity_web">WebActivity</string>
+    <string name="webcontent">Look for your web site</string>
+    <string name="go">Go</string>
+
+</resources>
